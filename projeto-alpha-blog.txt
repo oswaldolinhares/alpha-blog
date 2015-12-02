@@ -1,0 +1,9 @@
+1) Criar uma nova aplicação rais com o nome alpha-blog
+
+2) Rodar a aplicação e visualizar via browser
+
+3) Criar o controlador Pages Controller
+
+4) Criar rotas
+
+5) Criar a homepage, about
